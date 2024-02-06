@@ -1,0 +1,1 @@
+some PHP useful functions
